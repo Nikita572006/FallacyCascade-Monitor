@@ -1,0 +1,8 @@
+numpy>=1.26,<3
+spacy>=3.7,<4
+networkx>=3.2,<4
+sentence-transformers>=3.0,<6
+torch>=2.2
+xgboost>=2.0,<4
+datasets>=2.18,<5
+scikit-learn>=1.4,<2
